@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+}
+.man {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 70px;
+}
+.tigers {
+    width: 300px;
+    height: auto;
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+.text {
+    font-weight:bold;
+    font-size: 50px;
+    margin-bottom: 10px;
+    color: #f9faf8;
+}
+.boy {
+    margin-bottom: 15px;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.buttons {
+    padding: 5px 15px;
+    border-radius: 8px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+}
+li{
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+}
+ul {
+    display: flex;
+   gap: 20px;
+   font-size: 18px;
+   
+}
+.center {
+    display: flex;
+    align-items: center;
+    height: 500px;
+
+}
+.another {
+    margin-left: 50px;
+}
+.girl {
+    background-color: #1f2937;
+}
+.tiger {
+    font-weight: bolder;
+    text-align: center;
+    font-size: 36px;
+    color: #1f2937;
+    margin-bottom: 30px;
+}
+.dog {
+    display: flex;
+    margin-left: 270px;
+    gap: 5px;
+   
+}
+.ee {
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+}
+.dig {
+    height: 200px;
+    margin-bottom: 30px;
+}
+.last {
+    background-color: #e5e7eb;
+    font-size: 22px;
+    font-style: italic;
+    color: #1f2937;
+    text-align: center;
+    padding: 20px;
+}
+.any {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    margin-left: 700px;
+}
+.dude {
+    background-color: #3882f6;
+    margin: 0 300px;
+    height: 70px;
+    padding: 30px;
+    border-radius: 10px;
+}
+.mess {
+    height: 150px;
+    padding: 20px;
+}
+.action {
+    font-weight: bold;
+    color: white;
+}
+.sign-up {
+    margin-left: 20px;
+    background-color: #3882f6;
+    padding: 5px 15px;
+    border-radius: 8px;
+    font-weight: bold;
+    color: white;
+    
+}
+.footer {
+    text-align: center;
+    background-color: #1f2937;
+   height: 30px;
+   padding: 5px ;
+   color: white;
+}
+.card {
+   margin-left: 80px;
+}
+.left-links {
+    margin-right: 300px;
+}
+.prime {
+    font-size: large;
+    color: white;
+}
+
